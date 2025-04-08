@@ -11,6 +11,6 @@ oh well have fun ig
 Installation (run terminal as root):
 1) apt update
 2) apt install git curl -y
-3) git clone https://github.com/sanklikesdrain/unfollower_bot_2.0.git
-4) cd unfollower_bot_2.0
+3) git clone https://github.com/sanklikesdrain/ig_unfollower_bot.git
+4) cd ig_unfollower_bot.git
 5) bash unfollower.sh
